@@ -1,7 +1,7 @@
-Package validator
+Package hacked<b>
 ================
 
-Package validator implements variable validations
+Package hacked<b> implements variable validations
 
 Installation
 ============
