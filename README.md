@@ -63,7 +63,7 @@ Here is the list of validators buildin in the package.
 	nonzero
 		This validates that the value is not zero. The appropriate
 		zero value is given by the Go spec (e.g. for int it's 0, for
-		string it's "", for pointers is nil, etc.) For structs, it
+		string its "", for pointers is nil, etc.) For structs, it
 		will not check to see if the struct itself has all zero
 		values, instead use a pointer or put nonzero on the struct's
 		keys that you care about. (Usage: nonzero)
